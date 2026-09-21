@@ -1,0 +1,47 @@
+[
+  {
+    "region": "amazon",
+    "ym": "2026-09",
+    "p_extreme_next": 0.102
+  },
+  {
+    "region": "australia",
+    "ym": "2026-09",
+    "p_extreme_next": 0.088
+  },
+  {
+    "region": "bangladesh",
+    "ym": "2026-09",
+    "p_extreme_next": 0.017
+  },
+  {
+    "region": "borneo",
+    "ym": "2026-09",
+    "p_extreme_next": 0.091
+  },
+  {
+    "region": "california",
+    "ym": "2026-09",
+    "p_extreme_next": 0.108
+  },
+  {
+    "region": "canada",
+    "ym": "2026-09",
+    "p_extreme_next": 0.021
+  },
+  {
+    "region": "congo",
+    "ym": "2026-09",
+    "p_extreme_next": 0.072
+  },
+  {
+    "region": "mediterranean",
+    "ym": "2026-09",
+    "p_extreme_next": 0.042
+  },
+  {
+    "region": "siberia",
+    "ym": "2026-09",
+    "p_extreme_next": 0.06
+  }
+]
